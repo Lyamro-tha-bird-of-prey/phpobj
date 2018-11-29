@@ -1,7 +1,5 @@
 <?php
 
-require_once "libs/Mammal.php";
-
 class Dog extends Mammal {
     private $name;
     public function iAm() {

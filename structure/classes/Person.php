@@ -1,6 +1,7 @@
 <?php
 
-require_once "libs/Mammal.php";
+namespace classes;
+use libs\Mammal;
 
 class Person extends Mammal {
     private $firstname;

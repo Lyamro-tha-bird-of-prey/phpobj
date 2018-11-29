@@ -1,7 +1,5 @@
 <?php
 
-require_once "Animal.php";
-
 abstract class Oviparous extends Animal {
     /*    private $color;
         public function __construct($pColor, $pYear, $pSex)
